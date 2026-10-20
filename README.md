@@ -1,25 +1,32 @@
-# DreamSite Studio
+# DreamSetup Studio
 
-Design your dream website visually — no coding required.
+Design your dream gaming or computer setup — customize your gear, room colors, RGB vibe, and budget in one interactive planner.
 
 ## Features
 
-- Visual website canvas with desktop, tablet, and mobile previews
-- Add hero, features, call-to-action, text, image, button, spacer, and footer sections
-- Edit section text, links, colors, image URLs, and alignment in the design inspector
-- Reorder, duplicate, and delete sections
-- Save your project in your browser's local storage
-- Export and download a standalone HTML website
-- Responsive interface for desktop and mobile screens
+- Interactive setup scene with selectable PC, monitor, keyboard, mouse, chair, desk, headset, lighting, speakers, and microphone
+- Component library with multiple illustrative options for each category
+- Customize component inclusion and estimated prices
+- Choose room style, wall color, desk color, and RGB accent color
+- Set a budget and see estimated total, remaining budget, and over-budget status
+- Save the build in the current browser using local storage
+- Export a readable setup summary or download a JSON build file
+- Responsive layout for desktop and mobile
 
 ## Run locally
 
-Open `index.html` in a modern browser. No build step or dependencies are required.
+Open `index.html` in a modern browser. No build step, account, server, or external dependencies are required.
 
-## GitHub Pages
+## Publish with GitHub Pages
 
-This is a static site. In repository Settings → Pages, choose the `main` branch and `/(root)` as the source. After deployment, open the published URL.
+1. Open the repository's **Settings → Pages**.
+2. Select **Deploy from a branch**.
+3. Choose the `main` branch and `/(root)`, then save.
+4. Wait for the Pages deployment to finish. GitHub will show the published address in the Pages settings.
 
-## Storage and privacy
+## Notes
 
-Projects are saved in local storage in the browser you are using. This starter does not upload projects to a server or provide cross-device accounts.
+- Prices are editable planning estimates in AED, not live store prices.
+- Component visuals are illustrative concepts, not exact product renders.
+- Check real specifications, compatibility, dimensions, availability, and pricing before buying.
+- Saved builds stay in the browser on the device being used. This version does not provide online accounts or cloud syncing.
